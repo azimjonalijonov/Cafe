@@ -10,6 +10,7 @@ public class Payment {
              ) {
 
             bill=bill+food.getPrice();
+
         }
         return bill;
     }

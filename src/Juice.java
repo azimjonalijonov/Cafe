@@ -3,4 +3,5 @@ public class Juice extends FoodsAndDrinks{
         name="Juice";
         price=10;
     }
+
 }

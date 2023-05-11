@@ -3,6 +3,7 @@ public abstract class FoodsAndDrinks {
     public String name;
     public int price;
 
+
     public String getName() {
         return name;
     }
